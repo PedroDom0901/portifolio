@@ -1,7 +1,9 @@
 <h1 align="center"> Meu Portifólio </h1>
 
+<br>
+
 <p align="center">
-  <img src="file:///C:/Users/pedro/OneDrive/Desktop/portifolio.png" alt="">
+  <img alt="" src="./public/portifolio.png" width="100%">
 </p>
 
 ## Tecnologias
