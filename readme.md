@@ -1,7 +1,7 @@
 <h1 align="center"> Meu Portifólio </h1>
 
 <p align="center">
-  <img alt= src= "file:///C:/Users/pedro/OneDrive/Desktop/portifolio.png">
+  <img alt="" src="file:///C:/Users/pedro/OneDrive/Desktop/portifolio.png">
 </p>
 
 <br>
