@@ -1,7 +1,7 @@
 <h1 align="center"> Meu Portifólio </h1>
 
 <p align="center">
-  <img alt= src="./fotos-do-projeto/portifolio.png">
+  <img alt= src= "file:///C:/Users/pedro/OneDrive/Desktop/portifolio.png">
 </p>
 
 <br>
@@ -10,7 +10,7 @@
   <img alt="" src=".github/preview.jpg" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
