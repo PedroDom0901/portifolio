@@ -5,15 +5,12 @@
   }
 
 body{
-    background-image: url(./fotos-do-projeto/imagem-de-fundo.jpg);
+    background-image: url(./public/imagem-de-fundo.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
-
-
 #cabeçalho{
-    
     display: block;
     text-align: center;
     margin: auto;
