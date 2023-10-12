@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img alt="" src="./public/portifolio.png" width="100%">
+  <img alt="" src=".github/portifolio.png" width="100%">
 </p>
 
 ## Tecnologias
